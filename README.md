@@ -1,1 +1,1 @@
-CogNet1234@
+CogNet Advisor is an explainable course recommendation framework integrating FSLSM cognitive graphs and causal machine learning (DML). This repository contains the implementation, data schema, and evaluation reports. CogNet1234@
