@@ -1,7 +1,17 @@
+# Secrets & Environment
 .streamlit/
 .api_key
+.env
+.env.local
+
+# Caches & Databases
 cache/
+chroma_*/
+
+# Python
 *.pyc
 __pycache__/
+
+# OS & Logs
 .DS_Store
 *.log
